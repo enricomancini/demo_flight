@@ -1,4 +1,4 @@
 # demo_flight
 Demo per grafico
 
-Salvataggio con il BAS
+Salvataggio con il BAS, semplice grafico.
